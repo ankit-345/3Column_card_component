@@ -14,7 +14,7 @@
 }
 
 body{
-   background-color: var(--Very-light-gray);
+   background-color: var(--Transparent-white) !important;
 }
 
 .main-div{
@@ -23,7 +23,7 @@ body{
 }
 
 .my-article{
-    max-height: 29.375rem;
+    max-height: 41.375rem;
     max-width: 17.313rem;
     padding: 2.188rem;
 }
